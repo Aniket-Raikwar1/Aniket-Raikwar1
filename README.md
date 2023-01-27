@@ -1,8 +1,9 @@
-Hi There Aniket Raikwar
+# Hii Everyone! I'm Aniket Raikwar 👋
 
-I am from India, a data science enthusiast and beginner in programming.
 
-Skils -
-1. Html
-2. Css
-3. Python
+                Data Analyst | Data scientist
+
+
+
+## 
+![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
