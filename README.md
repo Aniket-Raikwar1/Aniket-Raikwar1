@@ -13,7 +13,7 @@
 
 🧠 I'm currently learning Deep learning
 
-👋  I love connecting with people. on [LinkedIn](https://www.linkedin.com/in/aniket-raikwar/) and [E-mail](aniketrtm114@gmai.com)
+👋  I love connecting with people. on [LinkedIn](https://www.linkedin.com/in/aniket-raikwar/) and aniketrtm114@gmai.com
 
 
 ## 🛠 Skills
